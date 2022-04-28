@@ -1,0 +1,14 @@
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\obj\Debug\netcoreapp3.1\Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\obj\Debug\netcoreapp3.1\Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\obj\Debug\netcoreapp3.1\Bubble Sort.AssemblyInfo.cs
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\obj\Debug\netcoreapp3.1\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\bin\Debug\netcoreapp3.1\Bubble Sort.exe
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\bin\Debug\netcoreapp3.1\Bubble Sort.deps.json
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\bin\Debug\netcoreapp3.1\Bubble Sort.runtimeconfig.json
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\bin\Debug\netcoreapp3.1\Bubble Sort.runtimeconfig.dev.json
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\bin\Debug\netcoreapp3.1\Bubble Sort.dll
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\bin\Debug\netcoreapp3.1\Bubble Sort.pdb
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\obj\Debug\netcoreapp3.1\Bubble Sort.dll
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\obj\Debug\netcoreapp3.1\Bubble Sort.pdb
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\obj\Debug\netcoreapp3.1\Bubble Sort.genruntimeconfig.cache
+C:\Users\Gabriel-PC\source\repos\Bubble Sort\obj\Debug\netcoreapp3.1\Bubble Sort.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\bin\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.exe
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\bin\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.deps.json
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\bin\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.runtimeconfig.json
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\bin\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.runtimeconfig.dev.json
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\bin\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.dll
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\bin\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.pdb
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\obj\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.csproj.AssemblyReference.cache
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\obj\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\obj\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.AssemblyInfoInputs.cache
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\obj\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.AssemblyInfo.cs
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\obj\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\obj\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.dll
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\obj\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.pdb
+C:\Users\Gabriel-PC\Desktop\Repos\TESTE TINNOVA\Soma dos Multiplos de 3 ou 5\obj\Debug\netcoreapp3.1\Soma dos Multiplos de 3 ou 5.genruntimeconfig.cache
